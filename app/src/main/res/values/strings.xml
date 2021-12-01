@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">дз 67</string>
+    <string name="My_name">Умар Абдуллаев</string>
+    <string name="Look_name">Указать короткое имя</string>
+    <string name="photo">Фото</string>
+    <string name="Status">Установить статус</string>
+    <string name="Work">Указать место работы</string>
+    <string name="Info">Подробная информация</string>
+    <string name="Picture_n">Фотография</string>
+
+
+
+
+
+
+
+</resources>
